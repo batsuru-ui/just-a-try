@@ -22,7 +22,7 @@
   </style>
 </head>
 <body>
-  <h1>أwelcome to my first templet!</h1>
+  <h1>welcome to my first templet</h1>
   <p>its just a templet ready to get sailed.</p>
 </body>
 </html>
